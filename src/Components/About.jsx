@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a third-year Computer Engineering student at PVG's COET with a passion for Machine Learning and a flair for writing. As an enthusiast in technology, I have won several Hackathons and currently serve as the Management and Operations Head at Google's Developer Student Club PVG's COET. With technical skills ranging from FullStack Web Development to Data Science, I am always eager to learn and explore new technologies. Apart from my interest in tech, I have also delved into the world of writing. I am a published author with my first book called 'The Anthem of My Heart' being a compilation of cathartic poems. I am a Quora writer with more than 460k views on various topics, and I am currently working on a story called 'Lost in the Memory' on Wattpad. I also enjoy writing short stories and poems on Commaful. I believe that writing is a form of self-expression that complements my technical skills and helps me convey my ideas effectively.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Machine Learning",
+  "Full Stack Web Development",
+  "Published Author",
+  "Hackathon Experience",
+  "Management and Operations",
+  "Creative/Content Writing",
 ];
 
 /**
@@ -44,8 +44,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+const detailOrQuote = "There's always a part of us strong enough to never give up.";
 
 const About = () => {
   return (

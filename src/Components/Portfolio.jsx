@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Kronos",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed an e-commerce website for selling customized watches. Provided a feature to select five different customizations and filter watches according to price range.",
+    url: "https://github.com/Nisarg6502/tech_ninjas_frontend_hack21",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Swapit",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a fullstack website for people to exchange books. Included features like searching a book, login/signup, etc to meet the requirements based on a survey of 39 people. Utilized SQL, Django and Python.",
+    url: "https://github.com/Nisarg6502/dark-rangers-hackoverflow-2022/tree/master",
   },
   {
-    title: "My Resume Site",
+    title: "Book Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Built an interactive website from scratch for the launch of first book, ”The Anthem of My Heart”",
+    url: "https://github.com/Nisarg6502/book-website",
   },
 ];
 
